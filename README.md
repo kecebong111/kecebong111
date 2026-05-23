@@ -20,7 +20,7 @@
 
 ## stats
 
-![](https://github-readme-stats.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true)
+<picture><source srcset="https://github-readme-stats-iota-rust.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true" /><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true" /></picture>
 
 ## activity
 
