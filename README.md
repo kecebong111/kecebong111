@@ -18,6 +18,11 @@
 ![Linux](https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=white&labelColor=000000)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-141414?style=flat-square&logo=burpsuite&logoColor=white&labelColor=000000)
 
+## ships
+
+- frontend contributor on [malpres.com](https://malpres.com) — navbar, footer, faq, coming soon, galeri, about
+- building [portfolio](https://adit-portfolio-self.vercel.app/) — wip, redesign in progress
+
 ## stats
 
 <picture><source srcset="https://github-readme-stats-iota-rust.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true" /><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true" /></picture>
@@ -28,7 +33,11 @@
 
 ## ctf
 
-> picoctf · htb · thm — retired challenges only
+> picoctf — retired challenges only
+
+cleared:
+- web exploitation — every easy challenge
+- forensics — CanYouSee, Glory of the Garden, information, m00nwalk, WhitePages, So Meta, Shark on wire 1, flags are stepic
 
 [→ ctf-writeups](https://github.com/kecebong111/ctf-writeups)
 
