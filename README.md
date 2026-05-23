@@ -1,4 +1,4 @@
-## kecebong111
+## kecebong
 
 *shipping over talking. the work is the receipt.*
 
@@ -21,7 +21,11 @@
 ## ships
 
 - frontend contributor on [malpres.com](https://malpres.com) — navbar, footer, faq, coming soon, galeri, about
-- building [portfolio](https://adit-portfolio-self.vercel.app/) — wip, redesign in progress
+- portfolio: [kecebong111-portfolio.vercel.app](https://kecebong111-portfolio.vercel.app)
+
+## achievements
+
+- 2nd place — webcraft UGM 2025 (fullstack)
 
 ## stats
 
