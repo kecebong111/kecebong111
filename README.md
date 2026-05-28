@@ -1,6 +1,4 @@
-## kecebong
 
-*shipping over talking. the work is the receipt.*
 
 ## stack
 
@@ -46,5 +44,3 @@ cleared:
 [→ ctf-writeups](https://github.com/kecebong111/ctf-writeups)
 
 ---
-
-*pelan-pelan asal kelakon.*
