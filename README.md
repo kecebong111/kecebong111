@@ -19,7 +19,7 @@
 ## ships
 
 - frontend contributor on [malpres.com](https://malpres.com) — navbar, footer, faq, coming soon, galeri, about
-- portfolio: [kecebong111-portfolio.vercel.app](https://kecebong111-portfolio.vercel.app)
+- portfolio: [kecebong-portfolio.vercel.app](https://kecebong-portfolio.vercel.app)
 
 ## achievements
 
