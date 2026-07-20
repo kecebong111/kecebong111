@@ -25,10 +25,6 @@
 
 - 2nd place — webcraft UGM 2025 (fullstack)
 
-## stats
-
-![stats](https://github-readme-stats-iota-rust.vercel.app/api?username=kecebong111&theme=transparent&hide_border=true&cache_seconds=86400&hide_title=true&card_width=480&include_all_commits=true&count_private=true)
-
 ## activity
 
 ![activity](https://raw.githubusercontent.com/kecebong111/kecebong111/output/github-contribution-grid-snake.svg)
